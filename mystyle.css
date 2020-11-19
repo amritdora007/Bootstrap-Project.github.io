@@ -1,0 +1,32 @@
+.container{
+	background-color: black;
+}
+.img{
+	width: 100px;
+	height:80px;
+	padding: 10px;
+
+}
+.header1{
+font-family:'Xanh Mono', monospace;
+font-size: 18px;
+line-height: 22px;
+color: yellow;
+float: left;
+margin-top: 34px;
+}
+.marquee{
+	font-family: "Comic Sans MS";
+	color: red;
+	font-size: 20px;
+	background-color: yellow;
+}
+.header2{
+	font-family: "Impact", "Charcoal", sans-serif;
+	color: red;
+	font-size: 51px;
+	text-align: center;
+}
+.carousel-item{
+	text-align: center;
+}
